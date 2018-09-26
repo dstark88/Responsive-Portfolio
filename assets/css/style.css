@@ -61,7 +61,7 @@ body {
   /* header */
   @media screen and (max-width: 640px) {
   #masthead {
-    position: stactic; 
+    position: static; 
   }
   } 
 
